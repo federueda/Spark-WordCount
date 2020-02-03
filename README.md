@@ -35,4 +35,7 @@ $ sudo nano .bash_profile
 
 The first thing is to create a context with necessary configuration, then read text from file and split each line into words, and count by words. Finally, get the dictionary sorted from high to low counts and select position 25th (the first one is blank space).
 
+<p align="center">
+<img src="https://github.com/federueda/Spark_WordCount/blob/master/docs/JupyterSpark.png" width="400" height="100" title="Spark">
+</p>
 
