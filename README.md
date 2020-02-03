@@ -37,7 +37,7 @@ $ sudo nano .bash_profile
 
 ## 2. Resulting Words
 
-In this example we will find the 24th most used word in the text file. In this case we erase all the headers directly from the text file.
+In this example we will find the 24th most used word in the text file. In this case we erase all the headers directly from the text file. You can check the (.py file)[https://github.com/federueda/Spark_WordCount/blob/master/src/A5_Spark.py] from the src folder.
 
 ### 6th Step: use pyspark to code word count functionality using Spark
 
