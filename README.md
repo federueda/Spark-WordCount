@@ -47,4 +47,4 @@ I used a Jupyter Notebook to run the code. The first thing is to create a contex
 <img src="https://github.com/federueda/Spark_WordCount/blob/master/docs/JupyterSpark.png" width="750" height="300" title="Spark">
 </p>
 
-The resulting word is "AS" used 4267 times in the text file.
+The resulting word is "as" used 4267 times in the text file.
