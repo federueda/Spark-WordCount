@@ -41,7 +41,7 @@ In this example we will find the 24th most used word in the text file. In this c
 
 ### 6th Step: use pyspark to code word count functionality using Spark
 
-I used a Jupyter Notebook to run the code. The first thing is to create a context with necessary configuration, then read text from file and split each line into words, and count by words. Finally, get the dictionary sorted from high to low counts and select position 25th (the first one is blank space). Also, I need to upload the text file in the correct path to be read.
+I used a Jupyter Notebook to run the code. The first thing is to create a context with necessary configuration, then read text from file and split each line into words, and count by words. Finally, get the dictionary sorted from high to low counts and select position 25th (the first one is blank space). Also, I need to upload the text file in the correct path to be read and at the end of the code stop the used Spark Context.
 
 <p align="center">
 <img src="https://github.com/federueda/Spark_WordCount/blob/master/docs/JupyterSpark.png" width="700" height="300" title="Spark">
